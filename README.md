@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @govindaroyaiub
 - 👀 I’m interested in developing websites and designing crispy things.
 - 🌱 I’m currently learning web development frameworks.
-- 💞️ I’m looking to collaborate on projects that require JS, CSS, HTML, Laravel
+- 💞️ I’m looking to collaborate on projects that require HTML, CSS, JS, PHP, Laravel
 - 📫 How to reach me: govindaroy.ofc94@gmail.com
 
 <!---
