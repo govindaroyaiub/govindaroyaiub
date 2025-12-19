@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Govinda Roy<br>👀 I’m interested in developing websites and designing crispy things.<br>🌱 Alwyas getting myself up-to-date with the latest updates.<br>💞️ I’m looking to collaborate on projects that require HTML, CSS, JS, PHP, Laravel<br>📫 How to reach me: govindaroy.ofc94@gmail.com
+👋 Hi, I’m Govinda Roy<br>👀 I’m interested in developing websites and designing crispy things.<br>🌱 Always getting myself up-to-date with the latest updates.<br>💞️ I’m looking to collaborate on projects that require HTML, CSS, JS, PHP, Laravel<br>📫 How to reach me: govindaroy.ofc94@gmail.com
 
 
 
